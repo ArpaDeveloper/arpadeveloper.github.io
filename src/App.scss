@@ -1,0 +1,51 @@
+$primary-color: #000000;
+
+@import 'animate.css';
+
+@font-face {
+  font-family: 'FacultyGlyphic';
+  src: url('./assets/fonts/FacultyGlyphic-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lekton';
+  src: url('./assets/fonts/Lekton-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lekton-Bold';
+  src: url('./assets/fonts/Lekton-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lekton-Italic';
+  src: url('./assets/fonts/Lekton-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+input,
+textarea  {
+  font-family: 'Lekton';
+}
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  min-height: 100vh;
+  position: relative;
+}

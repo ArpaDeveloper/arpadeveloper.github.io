@@ -1,0 +1,26 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  background: transparent;
+  font-family: 'FacultyGlyphic', sans-serif;
+}
+
+.bg_ps3 {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  background: linear-gradient(180deg, #829CBC 0%, #6290C8 50%, #376996 100%); //linear-gradient(180deg, #001f4d 0%, #003c8f 50%, #005adf 100%);
+  animation: gradientShift 10s ease-in-out infinite alternate;
+}
+  
+@keyframes gradientShift {
+  0% {
+    filter: hue-rotate(0deg);
+  }
+  50% {
+    filter: hue-rotate(-15deg);
+  }
+  100% {
+    filter: hue-rotate(0deg);
+  }
+}

@@ -1,0 +1,69 @@
+.nav {
+  position: fixed;     
+  top: 20px;
+  right: 20px;
+  display: flex;
+  gap: 20px;
+  z-index: 10;         
+}
+
+.nav-btn {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  font-family: "Lekton", Lekton;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  display: flex;
+  align-items: center;
+}
+
+/* arrows (your original, but properly centered) */
+.nav-btn::before {
+  content: "<";
+  opacity: 0;
+  margin-right: 6px;
+  transition: opacity 0.2s;
+}
+
+.nav-btn::after {
+  content: ">";
+  opacity: 0;
+  margin-left: 6px;
+  transition: opacity 0.2s;
+}
+
+.nav-btn:hover::before,
+.nav-btn:hover::after {
+  opacity: 1;
+}
+
+/* ========================= */
+/* CLEAN TEXT SWAP FIX       */
+/* ========================= */
+
+.nav-btn span {
+  position: relative;
+  display: inline-block;
+}
+
+/* hover text layer */
+.nav-btn span::after {
+  content: attr(data-hover);
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  white-space: nowrap;
+}
+
+/* swap instantly (no movement) */
+.nav-btn:hover span {
+  color: transparent; /* hides original */
+}
+
+.nav-btn:hover span::after {
+  opacity: 1;
+  color: rgb(255, 255, 255);
+}
