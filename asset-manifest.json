@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b6cf21c2.css",
-    "main.js": "/static/js/main.f2f4fec6.js",
+    "main.js": "/static/js/main.a3c8816c.js",
     "static/js/453.29cebddd.chunk.js": "/static/js/453.29cebddd.chunk.js",
     "static/media/av.jpg": "/static/media/av.e96611d38491a08cd0bc.jpg",
     "static/media/spaceishungry.png": "/static/media/spaceishungry.00798a91ff863fe14053.png",
@@ -9,7 +9,7 @@
     "static/media/lofirunner.png": "/static/media/lofirunner.2b9009ec4021a7b642c1.png",
     "static/media/muninn.png": "/static/media/muninn.a0b0e1a326f8f35581a5.png",
     "static/media/hackathon.png": "/static/media/hackathon.1c8c791d262361a35e5e.png",
-    "static/media/cv.pdf": "/static/media/cv.8b3a8a8a7347e61bc121.pdf",
+    "static/media/cv.pdf": "/static/media/cv.00e65536769883210a95.pdf",
     "static/media/junction.jpg": "/static/media/junction.44e220a5b0ca3e9bc1b9.jpg",
     "static/media/intti.jpg": "/static/media/intti.2c7a50e4efefccebd30e.jpg",
     "static/media/Lekton-Regular.ttf": "/static/media/Lekton-Regular.6c6e692aa8c6b75caadc.ttf",
@@ -25,11 +25,11 @@
     "static/media/tattis.png": "/static/media/tattis.2e9f7015f916cdeec7fc.png",
     "index.html": "/index.html",
     "main.b6cf21c2.css.map": "/static/css/main.b6cf21c2.css.map",
-    "main.f2f4fec6.js.map": "/static/js/main.f2f4fec6.js.map",
+    "main.a3c8816c.js.map": "/static/js/main.a3c8816c.js.map",
     "453.29cebddd.chunk.js.map": "/static/js/453.29cebddd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6cf21c2.css",
-    "static/js/main.f2f4fec6.js"
+    "static/js/main.a3c8816c.js"
   ]
 }
