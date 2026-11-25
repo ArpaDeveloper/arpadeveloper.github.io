@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.383cf8f4.css",
-    "main.js": "/static/js/main.e3b0abce.js",
+    "main.css": "/static/css/main.afaf8354.css",
+    "main.js": "/static/js/main.a3dac151.js",
     "static/js/453.29cebddd.chunk.js": "/static/js/453.29cebddd.chunk.js",
     "static/media/av.png": "/static/media/av.807fab4f21e821414ee3.png",
     "static/media/spaceishungry.png": "/static/media/spaceishungry.4e5b70f5f007da6c80af.png",
@@ -11,7 +11,8 @@
     "static/media/muninn.png": "/static/media/muninn.a0b0e1a326f8f35581a5.png",
     "static/media/consensus2.png": "/static/media/consensus2.7d1852b1bdc8c2fbddc4.png",
     "static/media/hackathon.png": "/static/media/hackathon.1c8c791d262361a35e5e.png",
-    "static/media/cv.pdf": "/static/media/cv.fa66e1d9ec78783cd674.pdf",
+    "static/media/cv.pdf": "/static/media/cv.02edd5b49d4ce35ca737.pdf",
+    "static/media/pst.png": "/static/media/pst.c871989376a60c0e8e21.png",
     "static/media/consensus.png": "/static/media/consensus.a119f0b80ec629954607.png",
     "static/media/junction.jpg": "/static/media/junction.44e220a5b0ca3e9bc1b9.jpg",
     "static/media/SortsMillGoudy-Regular.ttf": "/static/media/SortsMillGoudy-Regular.63480b60449721659684.ttf",
@@ -28,12 +29,12 @@
     "static/media/Sansation-Regular.ttf": "/static/media/Sansation-Regular.8b7bbfcc7285a2757ff5.ttf",
     "static/media/Lekton-Italic.ttf": "/static/media/Lekton-Italic.9292e4d4c781afe48806.ttf",
     "index.html": "/index.html",
-    "main.383cf8f4.css.map": "/static/css/main.383cf8f4.css.map",
-    "main.e3b0abce.js.map": "/static/js/main.e3b0abce.js.map",
+    "main.afaf8354.css.map": "/static/css/main.afaf8354.css.map",
+    "main.a3dac151.js.map": "/static/js/main.a3dac151.js.map",
     "453.29cebddd.chunk.js.map": "/static/js/453.29cebddd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.383cf8f4.css",
-    "static/js/main.e3b0abce.js"
+    "static/css/main.afaf8354.css",
+    "static/js/main.a3dac151.js"
   ]
 }
