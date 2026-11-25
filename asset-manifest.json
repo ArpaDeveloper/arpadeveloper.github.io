@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.afaf8354.css",
-    "main.js": "/static/js/main.a3dac151.js",
+    "main.css": "/static/css/main.133d23ca.css",
+    "main.js": "/static/js/main.c14ba88a.js",
     "static/js/453.29cebddd.chunk.js": "/static/js/453.29cebddd.chunk.js",
-    "static/media/av.png": "/static/media/av.807fab4f21e821414ee3.png",
     "static/media/spaceishungry.png": "/static/media/spaceishungry.4e5b70f5f007da6c80af.png",
     "static/media/lofirunner.png": "/static/media/lofirunner.2b9009ec4021a7b642c1.png",
     "static/media/CormorantGaramond-Regular.ttf": "/static/media/CormorantGaramond-Regular.f4ec820f92b538a265c8.ttf",
@@ -25,16 +24,17 @@
     "static/media/lofirunner2.png": "/static/media/lofirunner2.ef38ceaa383f55ae230b.png",
     "static/media/Figtree-Bold.ttf": "/static/media/Figtree-Bold.79e39ac61d92daf7e6b9.ttf",
     "static/media/Figtree-Regular.ttf": "/static/media/Figtree-Regular.c7d323303abdccfdf903.ttf",
+    "static/media/av.webp": "/static/media/av.06ebf1dc88bbfd03ccbe.webp",
     "static/media/Sansation-Bold.ttf": "/static/media/Sansation-Bold.ee8625a056ad24ea12ed.ttf",
     "static/media/Sansation-Regular.ttf": "/static/media/Sansation-Regular.8b7bbfcc7285a2757ff5.ttf",
     "static/media/Lekton-Italic.ttf": "/static/media/Lekton-Italic.9292e4d4c781afe48806.ttf",
     "index.html": "/index.html",
-    "main.afaf8354.css.map": "/static/css/main.afaf8354.css.map",
-    "main.a3dac151.js.map": "/static/js/main.a3dac151.js.map",
+    "main.133d23ca.css.map": "/static/css/main.133d23ca.css.map",
+    "main.c14ba88a.js.map": "/static/js/main.c14ba88a.js.map",
     "453.29cebddd.chunk.js.map": "/static/js/453.29cebddd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.afaf8354.css",
-    "static/js/main.a3dac151.js"
+    "static/css/main.133d23ca.css",
+    "static/js/main.c14ba88a.js"
   ]
 }
